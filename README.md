@@ -42,7 +42,7 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 - [ ] 5.5 - Projeto - 
 - [ ] 5.6 - Projeto - 
 
-##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo]()
+##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/miguelm44/-trybe-exercicios/tree/master/01-fundamentos/bloco-06-html-e-css-forms-flexbox-e-responsivo)
 - [ ] 6.1 - HTML & CSS - Forms
 - [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 6.3 - Introdução - CSS Flexbox
