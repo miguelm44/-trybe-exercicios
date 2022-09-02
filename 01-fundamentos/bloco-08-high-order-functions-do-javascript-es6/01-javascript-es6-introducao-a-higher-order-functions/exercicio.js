@@ -48,7 +48,7 @@ console.log(newEmployees(dados))
 
 /* 2° */
 
- const numeroEscolhidor = (a, b, c, d)  => {
+ const numeroEscolhido = (a, b, c, d)  => {
   const numeroEscolhido = Math.floor(Math.random() * (b - a) + a);
   const numeroSorteado = Math.floor(Math.random() * (d- c) + c);
   if ( numeroEscolhido === numeroSorteado){
@@ -57,9 +57,10 @@ console.log(newEmployees(dados))
     return "Tente novamente";
   }
  }
-
-console.log(numeroEscolhidor(1,6,1,6));
-
+const sorteio = (a,b,c,d,e) => {
+return a(b,c,d,e)
+}
+console.log(sorteio(numeroEscolhido,1,6,1,6))
 
 /* 3° */
 
@@ -85,7 +86,7 @@ const countPoints = (rightAnswers, studentAnswers, action) => {
 
 console.log(countPoints(RIGHT_ANSWERS, STUDENT_ANSWERS, compareAnswers));
 
-
+ 
 
 
 
