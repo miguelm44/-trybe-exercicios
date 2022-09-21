@@ -51,7 +51,7 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 - [ ] 6.5 - CSS Responsivo - Mobile First
 - [ ] 6.6 - Projeto - 
 
-##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários]()
+##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/miguelm44/-trybe-exercicios/tree/master/01-fundamentos/bloco-08-high-order-functions-do-javascript-es6)
 - [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 7.2 - JavaScript ES6 - Objects
 - [ ] 7.3 - Testes unitários em JavaScript
