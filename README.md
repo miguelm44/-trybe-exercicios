@@ -6,18 +6,18 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
-##### Bloco 1: [Unix, Bash e Shell Script]()
+##### seção 1: [Unix, Bash e Shell Script]()
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
 - [x] 1.3 - Introdução - Unix & Shells
 - [x] 1.3 - Unix & Bash - Parte 1
 - [x] 1.4 - Unix & Bash - Parte 2
 
-##### Bloco 2: [Git, GitHub e Internet]()
+#####  seção 2: [Git, GitHub e Internet]()
 - [x] 2.1 - Git & GitHub  - O que é e para que serve
 - [ ] 2.2 - Git & GitHub - Entendendo os comandos
 - [ ] 2.3 - Internet - Entendendo como ela funciona
 
-##### Bloco 3: [Introdução à HTML e CSS]()
+##### seção 3: [Introdução à HTML e CSS]()
 - [ ] 3.1 - Introdução - HTML & CSS
 - [ ] 3.1 - HTML & CSS - Estruturas de página
 - [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
@@ -25,7 +25,7 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 - [ ] 3.4 - HTML Semântico
 - [ ] 3.5 - Projeto - 
 
-##### Bloco 4: [Introdução à JavaScript e Lógica de Programação]()
+##### seção 4: [Introdução à JavaScript e Lógica de Programação]()
 - [ ] 4.1 - Introdução - JavaScript
 - [ ] 4.1 - JavaScript - Primeiros passos
 - [ ] 4.2 - JavaScript - Array e loop For
@@ -33,7 +33,7 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 - [ ] 4.4 - JavaScript - Objetos e funções
 - [ ] 4.5 - Projeto - 
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]()
+##### seção 5: [JavaScript: DOM, Eventos e Web Storage]()
 - [ ] 5.1 - JavaScript - DOM e seletores
 - [ ] 5.2 - JavaScript - Trabalhando com elementos
 - [ ] 5.3 - JavaScript - Eventos
@@ -42,7 +42,7 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 - [ ] 5.5 - Projeto - 
 - [ ] 5.6 - Projeto - 
 
-##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/miguelm44/-trybe-exercicios/tree/master/01-fundamentos/bloco-06-html-e-css-forms-flexbox-e-responsivo)
+##### seção 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/miguelm44/-trybe-exercicios/tree/master/01-fundamentos/bloco-06-html-e-css-forms-flexbox-e-responsivo)
 - [ ] 6.1 - HTML & CSS - Forms
 - [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 6.3 - Introdução - CSS Flexbox
@@ -51,25 +51,25 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 - [ ] 6.5 - CSS Responsivo - Mobile First
 - [ ] 6.6 - Projeto - 
 
-##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/miguelm44/-trybe-exercicios/tree/master/01-fundamentos/bloco-08-high-order-functions-do-javascript-es6)
+##### seção 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/miguelm44/-trybe-exercicios/tree/master/01-fundamentos/bloco-08-high-order-functions-do-javascript-es6)
 - [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 7.2 - JavaScript ES6 - Objects
 - [ ] 7.3 - Testes unitários em JavaScript
 - [ ] 7.4 - Projeto - 
 
-##### Bloco 8: [Higher Order Functions do JavaScript ES6]()
+##### seção 8: [Higher Order Functions do JavaScript ES6]()
 - [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
 - [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
 - [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [ ] 8.5 - Projeto - 
 
-##### Bloco 9: [JavaScript Assíncrono e Promises]()
+##### seção 9: [JavaScript Assíncrono e Promises]()
 - [ ] 9.1 - JavaScript Assíncrono e Callbacks
 - [ ] 9.2 - JavaScript Promises
 - [ ] 9.3 - Projeto - 
 
-##### Bloco 10: [Testes automatizados com Jest]()
+##### seção 10: [Testes automatizados com Jest]()
 - [ ] 10.1 - Primeiros passos no Jest
 - [ ] 10.2 - Jest - Testes Assíncronos
 - [ ] 10.3 - Jest - Simulando comportamentos
@@ -77,34 +77,34 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
-##### Bloco 11: [Introdução à React]()
+##### seção 01: [Introdução à React]()
 - [ ] 11.1 - Introdução - Front-end
 - [ ] 11.1 - Introdução - React
 - [ ] 11.1 - 'Hello, world!' no React!
 - [ ] 11.2 - Componentes React
 - [ ] 11.3 - Projeto - 
 
-##### Bloco 12: [Componentes com Estado, Eventos e Formulários com React]()
+##### seção 02: [Componentes com Estado, Eventos e Formulários com React]()
 - [ ] 12.1 - Componentes com estado e eventos
 - [ ] 12.2 - Formulários no React
 - [ ] 12.3 - Projeto - 
 
-##### Bloco 13: [Ciclo de Vida de Componentes e React Router]()
+##### seção 03: [Ciclo de Vida de Componentes e React Router]()
 - [ ] 13.1 - Ciclo de vida de componentes
 - [ ] 13.2 - React Router
 - [ ] 13.3 - Projeto - 
 
-##### Bloco 14: [Metodologias Ágeis]()
+##### seção 04: [Metodologias Ágeis]()
 - [ ] 14.1 - Metodologias Ágeis
 - [ ] 14.2 - Projeto - 
 
-##### Bloco 15: [Testes automatizados com React Testing Library]()
+##### seção 05: [Testes automatizados com React Testing Library]()
 - [ ] 15.1 - RTL - Primeiros passos
 - [ ] 15.2 - RTL - Mocks e Inputs
 - [ ] 15.3 - RTL - Testando React Router
 - [ ] 15.4 - Projeto - 
 
-##### Bloco 16: [Gerenciamento de estado com Redux]()
+##### seção 06: [Gerenciamento de estado com Redux]()
 - [ ] 16.1 - Introdução ao Redux - O estado global da aplicação
 - [ ] 16.2 - Usando o Redux no React
 - [ ] 16.3 - Usando o Redux no React - Prática
@@ -112,16 +112,16 @@ Este repositórios contém todas as atividades feitas por__[Miguel Ambrosio Mart
 - [ ] 16.5 - Testes síncronos com React-Redux
 - [ ] 16.6 - Projeto - 
 
-##### Bloco 17: Projeto Jogo de Trivia
+##### seção 07: Projeto Jogo de Trivia
 - [ ] 17.1 - Projeto - 
 
-##### Bloco 18: [Context API e React Hooks]()
+##### seção 08: [Context API e React Hooks]()
 - [ ] 18.1 - Context API do React
 - [ ] 18.2 - React Hooks - useState e useContext
 - [ ] 18.3 - React Hooks - useEffect e Hooks customizados
 - [ ] 18.4 - Projeto - 
 
-##### Bloco 19: Projeto App de Receitas
+##### seção 09: Projeto App de Receitas
 - [ ] 19.1 - Projeto - 
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
