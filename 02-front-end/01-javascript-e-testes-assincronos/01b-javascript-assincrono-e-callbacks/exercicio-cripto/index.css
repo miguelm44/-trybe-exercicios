@@ -1,0 +1,21 @@
+.lista{
+  border: 1px solid black;
+  width: 400px;
+  text-align: center;
+  margin-left: 650px;
+margin-top: 40px;
+background-color: rgb(230, 9, 9);
+font-size: 30px;
+}
+
+
+body {
+  text-align: center;
+
+}
+
+#ti {
+  margin-top: 30px;
+  background-color:rgb(231, 12, 12);
+  font-size: 50px;
+}
